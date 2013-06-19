@@ -6,7 +6,7 @@ threadsafe: false
 
 handlers:
 - url: /
-  script: twitter\.py
+  script: twitter.py
   login: admin
 
 - url: /twitter\.atom
